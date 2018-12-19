@@ -36,13 +36,11 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  
  ---?image=images/ssafy_bg.png
  
- 1. An Introduction to Git
- 
  * Pros of VCS
    - History of each files
    - Suitale for DevOps Cooperating development
    
- *Image will be posted*
+ ![Pros of VCS](images/pros_of_vcs.png)
  
  ---?image=images/ssafy_bg.png
  
