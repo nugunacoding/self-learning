@@ -1,0 +1,1 @@
+---?image=images/ssafy_main.jpg
