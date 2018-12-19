@@ -1,7 +1,7 @@
 ---?image=images/ssafy_main.png
 @transition[slide]
 
-## @color[black](Git and Markdown)
+## @color[black](Git 활용하기)
 @snap[south docslink span-50]
 Easy Way to Get Familiar With Git
 @snapend
