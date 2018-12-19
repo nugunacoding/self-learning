@@ -54,11 +54,11 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
 
 ## Today's Mission
 
-1. Introduce yourself with Git Pitch Slide
+**Introduce yourself with Git Pitch Slide.**
 
-* Those must be included on your slides
-  * a picture of yourself or your favorite.
-  * the list of name and nickname of your teammates
-  * the plan that you are going to do on the last day of this year.
+  - Those must be included on your slides
+    - a picture of yourself or your favorite.
+    - the list of name and nickname of your teammates
+    - the plan that you are going to do on the last day of this year.
 
-2. Post what you've learned for two weeks at the Start Camp on your Blog.
+**Post what you've learned for two weeks at the Start Camp on your Blog.**
