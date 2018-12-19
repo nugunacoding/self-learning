@@ -8,15 +8,15 @@ Easy Way to Get Familiar With Git
 
 ---?image=images/ssafy_bg.png
 
-@size[2em]
 1. An Introduction to Git
 2. How to Use
 3. Easy Slide Show with Git Pitch
 4. Make Personal Blog
 
-※ Markdown Syntax Basic
+Markdown Syntax Basic
 
 ---?image=images/ssafy_bg.png
+
 1. An Introduction to Git
 
 Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
@@ -57,8 +57,8 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  |web hosting|yes|yes|
  |popularity|more|less|
  
- * GitHub and GitLab has a similarity on their features.
- * Both repositories can be imported from the other.
+    - GitHub and GitLab has a similarity on their features.
+    - Both repositories can be imported from the other.
  
 ---?image=images/ssafy_bg.png
  
