@@ -44,13 +44,13 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  
 ---?image=images/ssafy_bg.png
  
-2. How to Use
+2. How to Use<br>
   [Join GitHub and Create Repository](https://nugunacoding.github.io/Join-GitHub)
    
-3. Slideshow with Git Pitch
+3. Slideshow with Git Pitch<br>
   [Slideshow with GitPitch](https://nugunacoding.github.io/Slideshow-with-GitPitch)
   
-4. Create Personal Blog
+4. Create Personal Blog<br>
   [Create Personal Blog](https://nugunacoding.github.io/Create-Personal-Blog)
   
 +++?image=images/ssafy_bg.png
