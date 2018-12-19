@@ -8,12 +8,14 @@ Easy Way to Get Familiar With Git
 
 ---?image=images/ssafy_bg.png
 
+@snap
 1. An Introduction to Git
 2. How to Use
 3. Slideshow with Git Pitch
 4. Create Personal Blog
 
-  * Markdown Syntax Basic
+**Today's Mission**
+Markdown Syntax Basic
 
 ---?image=images/ssafy_bg.png
 
