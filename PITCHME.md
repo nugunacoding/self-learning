@@ -1,5 +1,5 @@
 ---
-background : images/ssafy_main.png
+?image=images/ssafy_main.png
 @transition[slide]
 
 ## @color[black](Git and Markdown)
