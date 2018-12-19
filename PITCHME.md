@@ -19,7 +19,8 @@ Easy Way to Get Familiar With Git
 ---?image=images/ssafy_bg.png
 
 1. An Introduction to Git
-  * Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
+  - Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
+  
   *Image will be posted*
 
 ---?image=images/ssafy_bg.png
