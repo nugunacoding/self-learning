@@ -49,7 +49,7 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  * GitHub vs. GitLab
  
  |Features|GitHub|GitLab|
- |--------|------|------|
+ |:--------:|:------:|:------:|
  |released|2008.04|2011.09|
  |free plans|public only|public and private|
  |issue tracking|yes|yes|
