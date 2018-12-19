@@ -9,7 +9,7 @@
 3. Easy Slide Show with Git Pitch
 4. Make Personal Blog
 
-* Markdown Syntax Basic
+※ arkdown Syntax Basic
 
 ---?image=images/ssafy_bg.png
 
