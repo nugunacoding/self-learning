@@ -1,7 +1,5 @@
 ---?image=images/ssafy_main.png
 
-@title
-
 ## @color[black](Git and Markdown)
 
 @snap
