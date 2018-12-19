@@ -1,5 +1,5 @@
 ---?image=images/ssafy_main.png
-@transition[zoom-in fade-out]
+@transition[slide]
 
 ## @color[black](Git and Markdown)
 @snap[south docslink span-50]
