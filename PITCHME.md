@@ -45,10 +45,22 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
 ---?image=images/ssafy_bg.png
  
 2. How to Use
-  * [Join GitHub and Create Repository](https://nugunacoding.github.io/Join-GitHub)
+  - [Join GitHub and Create Repository](https://nugunacoding.github.io/Join-GitHub)
    
 3. Slideshow with Git Pitch
-  * [Join GitHub and Create Repository](https://nugunacoding.github.io/Join-GitHub)
+  - [Slideshow with GitPitch](https://nugunacoding.github.io/Slideshow-with-GitPitch)
   
 4. Create Personal Blog
-  * [Join GitHub and Create Repository](https://nugunacoding.github.io/Join-GitHub)
+  - [Create Personal Blog](https://nugunacoding.github.io/Create-Personal-Blog)
+  
++++?image=images/ssafy_bg.png
+
+# Today's Mission
+
+1. Introduce yourself with Git Pitch Slide
+  - Those must be included on your slides
+    - a picture of yourself or your favorite.
+    - the list of name and nickname of your teammates
+    - the plan that you are going to do on the last day of this year.
+
+2. Post what you've learned for two weeks at the Start Camp on your Blog.
