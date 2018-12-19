@@ -44,9 +44,9 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  
  ---?image=images/ssafy_bg.png
  
- 2. How to Use
+2. How to Use
  
- * GitHub vs. GitLab
+* GitHub vs. GitLab
  
  |Features|GitHub|GitLab|
  |:--------:|:------:|:------:|
@@ -62,28 +62,28 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  
 ---?image=images/ssafy_bg.png
  
-1) Join GitHub
-   (1) Open a web browser and go to https://github.com
-   (2) Fill the textboxes with your information.
+  1. Join GitHub
+     1. Open a web browser and go to https://github.com
+     2. Fill the textboxes with your information.
        (Skip this step if you already have GitHub account)
        
 ![Join GitHub](images/join_github_1.png)
 
 ---?image=images/ssafy_bg.png
 
-   (3) Select a plan on Step 2.
-   (4) You don't need to complete Step 3, just skip to the next.
-   (5) Open your mailbox and verify your email address.
+     3. Select a plan on Step 2.
+     4. You don't need to complete Step 3, just skip to the next.
+     5. Open your mailbox and verify your email address.
 
 ![Join GitHub](images/join_github_2.png)
 ![Join GitHub](images/join_github_3.png)
 
 ---?image=images/ssafy_bg.png
 
-2) Create Repository
-   (1) Click [New repository] and set the name of your repository.
-   (2) Check the box for initializing with a README.md.
-   (3) Click [Create Repository] to proceed.
+  2. Create Repository
+     1. Click [New repository] and set the name of your repository.
+     2. Check the box for initializing with a README.md.
+     3. Click [Create Repository] to proceed.
    
 ![Create Repository](images/create_repo.png)
 
@@ -96,13 +96,13 @@ README.md will be used to explain your project or whatever.
 
 ---?image=images/ssafy_bg.png
 
-3. Easy Slide Show with Git Pitch
+  3. Easy Slide Show with Git Pitch
 
 Create a document as markdown style like README.md, but you should name this file PITCHME.md.
 
-   (1) Click [Crate new file].
-   (2) Fill PITCHME.md on the inputbox.
-   (3) Click [Commit new file]
+     1. Click [Crate new file].
+     2. Fill PITCHME.md on the inputbox.
+     3. Click [Commit new file]
 
 ![Create PITCHME.md](images/create_pitchme_1.png)
 ![Create PITCHME.md](images/create_pitchme_2.png)
