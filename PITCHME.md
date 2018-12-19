@@ -1,10 +1,12 @@
 ---?image=images/ssafy_main.png
 
+
 ## @color[black](Git and Markdown)
 
-@snap
+@snap[south docslink span-50]
 Easy Way to Get Familiar With Git
 @snapend
+
 ---?image=images/ssafy_bg.png
 
 1. An Introduction to Git
