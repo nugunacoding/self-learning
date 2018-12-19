@@ -13,8 +13,7 @@ Easy Way to Get Familiar With Git
 2. How to Use
 3. Slideshow with Git Pitch
 4. Create Personal Blog
-
-**Today's Mission**
+5. **Today's Mission**
 
 ---?image=images/ssafy_bg.png
 
