@@ -1,7 +1,12 @@
 ---?image=images/ssafy_main.png
 
-## Git and Markdown
+@title
 
+## @color[black](Git and Markdown)
+
+@snap
+Easy Way to Get Familiar With Git
+@snapend
 ---?image=images/ssafy_bg.png
 
 1. An Introduction to Git
