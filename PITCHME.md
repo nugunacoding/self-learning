@@ -15,7 +15,6 @@ Easy Way to Get Familiar With Git
 4. Create Personal Blog
 
 **Today's Mission**
-Markdown Syntax Basic
 
 ---?image=images/ssafy_bg.png
 
