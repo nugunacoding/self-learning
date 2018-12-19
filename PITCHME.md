@@ -1,7 +1,7 @@
 ---?image=images/ssafy_main.png
 @transition[slide]
 
-## @color[black](Git 활용하기)
+## @color[black](Git and Markdown)
 @snap[south docslink span-50]
 Easy Way to Get Familiar With Git
 @snapend
@@ -19,14 +19,11 @@ Easy Way to Get Familiar With Git
 ---?image=images/ssafy_bg.png
 
 1. An Introduction to Git
-
-* Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
-
-*Image will be posted*
+  * Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
+  *Image will be posted*
 
 ---?image=images/ssafy_bg.png
-
-
+1. An Introduction to Git
 * Purpose of Git
   - Fast
   - Simple Structure
