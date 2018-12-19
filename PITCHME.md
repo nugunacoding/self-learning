@@ -7,11 +7,8 @@ Easy Way to Get Familiar With Git
 @snapend
 
 ---?image=images/ssafy_bg.png
-@title[Sidebar + Heading]
-@snap[west test-white]
-@size[3em](1.)
-@snapend
 
+@size[2em]
 1. An Introduction to Git
 2. How to Use
 3. Easy Slide Show with Git Pitch
