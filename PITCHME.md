@@ -2,12 +2,15 @@
 @title[Sidebar Templates]
 
 ## @color[black](Git and Markdown)
-
 @snap[south docslink span-50]
 Easy Way to Get Familiar With Git
 @snapend
 
 ---?image=images/ssafy_bg.png
+@title[Sidebar + Heading]
+@snap[west test-white]
+@size[3em](1.)
+@snapend
 
 1. An Introduction to Git
 2. How to Use
