@@ -40,7 +40,7 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
    - History of each files
    - Suitale for DevOps Cooperating development
    
- ![Pros of VCS](images/pros_of_vcs.png)
+![Pros of VCS](images/pros_of_vcs.png)
  
  ---?image=images/ssafy_bg.png
  
@@ -62,11 +62,62 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
  
 ---?image=images/ssafy_bg.png
  
-2. How to Use
-
 1) Join GitHub
-   ① Open a web browser and go to https://github.com
-   ② Fill the textboxes with your information.
+   (1) Open a web browser and go to https://github.com
+   (2) Fill the textboxes with your information.
+       (Skip this step if you already have GitHub account)
+       
+![Join GitHub](images/join_github_1.png)
+
+---?image=images/ssafy_bg.png
+
+   (3) Select a plan on Step 2.
+   (4) You don't need to complete Step 3, just skip to the next.
+   (5) Open your mailbox and verify your email address.
+
+![Join GitHub](images/join_github_2.png)
+![Join GitHub](images/join_github_3.png)
+
+---?image=images/ssafy_bg.png
+
+2) Create Repository
+   (1) Click [New repository] and set the name of your repository.
+   (2) Check the box for initializing with a README.md.
+   (3) Click [Create Repository] to proceed.
    
-*Image will be posted here*
+![Create Repository](images/create_repo.png)
+
+---?image=images/ssafy_bg.png
+
+Now, you've done creating your repository.
+README.md will be used to explain your project or whatever.
+
+![Structure of Repository](images/structure_of_repo.png)
+
+---?image=images/ssafy_bg.png
+
+3. Easy Slide Show with Git Pitch
+
+Create a document as markdown style like README.md, but you should name this file PITCHME.md.
+
+   (1) Click [Crate new file].
+   (2) Fill PITCHME.md on the inputbox.
+   (3) Click [Commit new file]
+
+![Create PITCHME.md](images/create_pitchme_1.png)
+![Create PITCHME.md](images/create_pitchme_2.png)
+
+---?image=images/ssafy_bg.png
+
+You can read the file README.md on the GitHub Page, but it will be very useful when you open it on Git Pitch, which mautomatically renders slide show based on the markdown syntax.
+
+![Open GitHub md file from GitPitch](images/github_to_gitpitch.png)
+
+Just type the address below on a web browser without any other process.
+https://gitpitch/*YourName*/*Repository*/*Branch*
+(Branch name can be omitted if it is master.
+
+---?image=images/ssafy_bg.png
+
+https://gitpitch.com/docs
 
