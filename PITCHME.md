@@ -1,5 +1,5 @@
 ---?image=images/ssafy_main.png
-@title[Sidebar Templates]
+@transition[zoom-in fade-out]
 
 ## @color[black](Git and Markdown)
 @snap[south docslink span-50]
