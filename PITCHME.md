@@ -1,5 +1,5 @@
 ---?image=images/ssafy_main.png
-
+@title[Sidebar Templates]
 
 ## @color[black](Git and Markdown)
 
