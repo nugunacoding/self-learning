@@ -1,11 +1,8 @@
----
+---?image=images/ssafy_main.png
 
-@img[](images/ssafy_main.png)
+@size[2em]Play with Git!
+@size[0.8em](@color[gray](Easy Way to Get Familiar With Git))
 
-@snap[center]
-## Play with Git!
-### @color[gray](Easy Way to Get Familiar With Git)
-@snapend
 
 ---?image=images/ssafy_bg.png
 
