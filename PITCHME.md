@@ -1,76 +1,92 @@
 ---?image=images/ssafy_main.png
-#snap[
-## @size[0.8em](Let's Take an Advantage of Git!)
 
-#### @size[0.8em](@color[#808080](Easy Way to Get Familiar With Git))
+## @size[0.8em](Git과 markdown을 잘 활용해보자!)
+
+#### @size[0.8em](@color[#808080](Let's take an advantage of Git and Markdown)
 
 ---?image=images/ssafy_bg.png
 
-@box[orange text-white rounded](Goal)
+@box[orange text-white rounded](목표)
 
-**Understanding markdown style document**
-**Creating your own presentation**
-**Organizing what you've learned on your blog**
+**마크다운 형식의 문서를 이해한다.**
+**Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.**
+**GitHub 블로그를 생성하고 Organizing what you've learned on your blog**
 **Thinking what you can do with Git for your portfolio**
 
 +++?image=images/ssafy_bg.png
 
 @box[orange text-white rounded](Today's Mission)
 
-**Create a Git Pitch Slide to introduce yourself.**
-  * these must be included on your slides
-    * a picture of yourself or your favorite.
-    * the list of name and nickname of your teammates
-    * the plan that you are going to do on the last day of this year.
+### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
 
-**Post what you've learned for two weeks at the Start Camp on your Blog.**
+**팀소개 프레젠테이션 만들기**
+ 1. PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
+  - 팀원들의 이름과 별명, 성격
+  - 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진
+  - 연말 계획 및 12월 31일에 하고 싶은 것
+ 2. Git Pitch로 해당 문서를 열어 슬라이드가 잘 만들어졌는지 확인합니다.
+
+** 스타트캠프의 주요 주제들을 블로그에 포스팅해 봅시다.
+ 1. 팀소개 프레젠테이션 링크
+ 2. 주제1
+ 3. 주제2
+ 4. 주제3
 
 ---?image=images/ssafy_bg.png
 
 @snap[north-west]
-What is Git?
+Git이란 무엇일까요?
 @snapend
 
-Git is a Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
-This offers online repository, changing history and especially helps people do cooperation on their work.
+Git은 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)입니다.
+온라인 작업 공간과 변경이력 관리 기능 등을 제공하며, 협업에 편리하도록 설계되어 있습니다.
 
 ![What is Git](images/what_is_git.png)
 
 ---?image=images/ssafy_bg.png
 
-Git pursues such purposes and these are highly requested on DevOps environment.
-  - Fast
-  - Simple Structure
-  - Non-linear Development
-  - Totally Separated
-  - Large Project
+Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편의성을 제공하고 있습니다.
+  - 빠른 속도
+  - 간단한 구조
+  - 비선형적 개발
+  - 완전 분리
+  - 대규모 프로젝트의 효율화
   
 ![Purpose of Git](images/purpose_of_git.png)
  
 ---?image=images/ssafy_bg.png
+
+VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요구사항을 쉽게 반영하고 관리할 수 있습니다.
+ - 개별 파일들에 대한 버전 관리가 가능하다는 점
+ - 분할/병합을 통해 병렬 작업이 가능하다는 것입니다.
  
-* Pros of VCS
-  - History of each files
-  - Suitale for DevOps Cooperating development
-   
 ![Pros of VCS](images/pros_of_vcs.png)
  
 ---?image=images/ssafy_bg.png
-Read these posts and complete today's mission.
 
-1. Create an account and repositories on GitHub: [click](https://nugunacoding.github.io/Join-GitHub)
-2. Create a markdown document and open it with Git Pitch: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
-3. Create personal blog and post your contents there: [click](https://nugunacoding.github.io/Create-Personal-Blog)
+그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
+
+1. GitHub 계정 및 Repository 생성: [click](https://nugunacoding.github.io/Join-GitHub)
+2. Blog 테마 설정하고 공개하기: 
+3. 공동 작업 환경 만들기:
+4. PITCHME.md 문서 작성하고 슬라이드쇼로 열기: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
+5. 블로그에 포스팅하기:
 
 +++?image=images/ssafy_bg.png
 
 @box[orange text-white rounded](Today's Mission)
 
-**Create a Git Pitch Slide to introduce yourself.**
-  * these must be included on your slides
-    * a picture of yourself or your favorite.
-    * the list of name and nickname of your teammates
-    * the plan that you are going to do on the last day of this year.
+### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
 
-**Post what you've learned for two weeks at the Start Camp on your Blog.**
-)
+**팀소개 프레젠테이션 만들기**
+ 1. PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
+  - 팀원들의 이름과 별명, 성격
+  - 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진
+  - 연말 계획 및 12월 31일에 하고 싶은 것
+ 2. Git Pitch로 해당 문서를 열어 슬라이드가 잘 만들어졌는지 확인합니다.
+
+** 스타트캠프의 주요 주제들을 블로그에 포스팅해 봅시다.
+ 1. 팀소개 프레젠테이션 링크
+ 2. 주제1
+ 3. 주제2
+ 4. 주제3
