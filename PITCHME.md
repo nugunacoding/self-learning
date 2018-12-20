@@ -6,18 +6,15 @@
 
 ---?image=images/ssafy_bg.png
 
-@box[skyblue text-white rounded](Goal)
-@box[orange text-white rounded](Understanding markdown style document)
-
-</br>
+@box[orange text-white rounded](Goal#Understanding markdown style document</br>
 Creating your own presentation</br>
 Organizing what you've learned on your blog</br>
 Thinking what you can do with Git for your portfolio)
 
 +++?image=images/ssafy_bg.png
 
-@box[rounded](Today's Mission)
-@box[orange text-white rounded](
+@box[orange text-white rounded](Today's Mission)
+
 **Create a Git Pitch Slide to introduce yourself.**
   * these must be included on your slides
     * a picture of yourself or your favorite.
