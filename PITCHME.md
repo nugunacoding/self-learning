@@ -2,7 +2,7 @@
 
 ## @size[0.8em](Let's Take an Advantage of Git!)
 
-#### @size[0.5em](@color[#999999](Easy Way to Get Familiar With Git))
+#### @size[0.8em](@color[#808080](Easy Way to Get Familiar With Git))
 
 ---?image=images/ssafy_bg.png
 
