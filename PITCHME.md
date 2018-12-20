@@ -1,8 +1,8 @@
 ---?image=images/ssafy_main.png
 
-## Let's Take an Advantage of Git!
+#### Let's Take an Advantage of Git!
 
-#### @color[#999999](Easy Way to Get Familiar With Git)
+###### @color[#999999](Easy Way to Get Familiar With Git)
 
 ---?image=images/ssafy_bg.png
 
