@@ -1,3 +1,7 @@
+---?code=python/helloworld.py&lang=python
+
+haha
+
 ---?image=images/ssafy_main.png
 @transition[slide]
 
