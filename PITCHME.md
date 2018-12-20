@@ -2,8 +2,10 @@
 
 @img[](images/ssafy_main.png)
 
+@snap[center]
 ## Play with Git!
 ### @color[gray](Easy Way to Get Familiar With Git)
+@snapend
 
 ---?image=images/ssafy_bg.png
 
