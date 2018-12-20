@@ -1,6 +1,7 @@
 ---?image=images/ssafy_main.png
 
 @size[2em]Play with Git!
+
 @size[0.8em](@color[gray](Easy Way to Get Familiar With Git))
 
 
