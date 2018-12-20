@@ -6,7 +6,7 @@
 
 ---?image=images/ssafy_bg.png
 
-@box[orange text-white rounded](목표)
+목표)
 
 **마크다운 형식의 문서를 이해한다.**
 **Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.**
