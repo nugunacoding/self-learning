@@ -66,10 +66,11 @@ VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요�
 그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
 
 1. GitHub 가입하기: [click](https://nugunacoding.github.io/Join-GitHub)
-2. Blog 테마 설정하고 공개하기: 
-3. 공동 작업 환경 만들기:
-4. PITCHME.md 문서 작성하고 슬라이드쇼로 열기: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
+2. 블로그 만들기: [click](https://nugunacoding.github.io/Create-Page-with-Theme)
+3. 공동 작업 환경 만들기: [click](https://nugunacoding.github.io/Add-Collaborator)
+4. Git Pitch 슬라이드 기능 활용하기: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
 5. 블로그에 포스팅하기:
+
 
 +++?image=images/ssafy_bg.png
 
