@@ -1,8 +1,8 @@
 ---?image=images/ssafy_main.png
 
-## @size[0.8em](Git과 markdown을 잘 활용해보자!)
+@size[2.0em](Git과 markdown을 잘 활용해보자!)
 
-#### @size[0.8em](@color[#808080](Let's take an advantage of Git and Markdown)
+@size[0.8em](@color[#808080](Let's take an advantage of Git and Markdown)
 
 ---?image=images/ssafy_bg.png
 
@@ -57,7 +57,7 @@ Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편�
 
 VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요구사항을 쉽게 반영하고 관리할 수 있습니다.
  - 개별 파일들에 대한 버전 관리가 가능하다는 점
- - 분할/병합을 통해 병렬 작업이 가능하다는 것입니다.
+ - 분할/병합을 통해 병렬 작업이 가능하다는 점
  
 ![Pros of VCS](images/pros_of_vcs.png)
  
@@ -65,7 +65,7 @@ VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요�
 
 그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
 
-1. GitHub 계정 및 Repository 생성: [click](https://nugunacoding.github.io/Join-GitHub)
+1. GitHub 가입하기: [click](https://nugunacoding.github.io/Join-GitHub)
 2. Blog 테마 설정하고 공개하기: 
 3. 공동 작업 환경 만들기:
 4. PITCHME.md 문서 작성하고 슬라이드쇼로 열기: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
