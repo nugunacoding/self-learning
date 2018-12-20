@@ -2,8 +2,27 @@
 
 ## Play with Git!
 
-@size[0.8em](@color[gray](Easy Way to Get Familiar With Git))
+#### @color[#999999](Easy Way to Get Familiar With Git)
 
+---?image=images/ssafy_bg.png
+
+@box[rounded](Goal)
+@box[orange text-white rounded](
+Understanding markdown style document</br>
+Thinking how to use Git Repository as you want)
+
++++?image=images/ssafy_bg.png
+
+@box[rounded](Today's Mission)
+@box[orange text-white rounded](
+**Introduce yourself with Git Pitch Slide.**
+- Those must be included on your slides
+  - a picture of yourself or your favorite.
+  - the list of name and nickname of your teammates
+  - the plan that you are going to do on the last day of this year.
+
+**Post what you've learned for two weeks at the Start Camp on your Blog.**
+)
 
 ---?image=images/ssafy_bg.png
 
@@ -12,7 +31,6 @@
 2. How to Use
 3. Slideshow with Git Pitch
 4. Create Personal Blog
-5. **Today's Mission**
 
 ---?image=images/ssafy_bg.png
 
@@ -53,11 +71,4 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
 
 ## Today's Mission
 
-**Introduce yourself with Git Pitch Slide.**
 
-  - Those must be included on your slides
-    - a picture of yourself or your favorite.
-    - the list of name and nickname of your teammates
-    - the plan that you are going to do on the last day of this year.
-
-**Post what you've learned for two weeks at the Start Camp on your Blog.**
