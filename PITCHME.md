@@ -1,10 +1,9 @@
----?image=images/ssafy_main.png
-@transition[slide]
+---
 
-## @color[black](Git and Markdown)
-@snap[south docslink span-50]
-Easy Way to Get Familiar With Git
-@snapend
+@img[](images/ssafy_main.png)
+
+## Play with Git!
+### @color[gray](Easy Way to Get Familiar With Git)
 
 ---?image=images/ssafy_bg.png
 
