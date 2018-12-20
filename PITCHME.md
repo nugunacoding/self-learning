@@ -1,6 +1,6 @@
 ---?image=images/ssafy_main.png
 
-## Play with Git!
+## Let's Take an Advantage of Git!
 
 #### @color[#999999](Easy Way to Get Familiar With Git)
 
@@ -9,32 +9,28 @@
 @box[rounded](Goal)
 @box[orange text-white rounded](
 Understanding markdown style document</br>
-Thinking how to use Git Repository as you want)
+Creating your own presentation</br>
+Organizing what you've learned on your blog</br>
+Thinking what you can do with Git for your portfolio)
 
 +++?image=images/ssafy_bg.png
 
 @box[rounded](Today's Mission)
 @box[orange text-white rounded](
-**Introduce yourself with Git Pitch Slide.**
-- Those must be included on your slides
-  - a picture of yourself or your favorite.
-  - the list of name and nickname of your teammates
-  - the plan that you are going to do on the last day of this year.
+**Create a Git Pitch Slide to introduce yourself.**
+  * these must be included on your slides
+    * a picture of yourself or your favorite.
+    * the list of name and nickname of your teammates
+    * the plan that you are going to do on the last day of this year.
 
 **Post what you've learned for two weeks at the Start Camp on your Blog.**
 )
 
 ---?image=images/ssafy_bg.png
 
-@snap
-1. An Introduction to Git
-2. How to Use
-3. Slideshow with Git Pitch
-4. Create Personal Blog
-
----?image=images/ssafy_bg.png
-
-1. An Introduction to Git
+@snap[north-west]
+1. What is Git?
+@snapend
 
 Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known for Linux developer.
 
@@ -60,15 +56,8 @@ Git: Version Control System(VCS) developed by Linus Tovaldz, who was well-known 
 ![Pros of VCS](images/pros_of_vcs.png)
  
 ---?image=images/ssafy_bg.png
- 
-2. How to Use: [click](https://nugunacoding.github.io/Join-GitHub)
-   
-3. Slideshow with Git Pitch: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
-  
-4. Create Personal Blog: [click](https://nugunacoding.github.io/Create-Personal-Blog)
-  
-+++?image=images/ssafy_bg.png
+Read these posts and complete today's mission.
 
-## Today's Mission
-
-
+1. Create an account and repositories on GitHub: [click](https://nugunacoding.github.io/Join-GitHub)
+2. Create a markdown document and open it with Git Pitch: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch)
+3. Create personal blog and post your contents there: [click](https://nugunacoding.github.io/Create-Personal-Blog)
